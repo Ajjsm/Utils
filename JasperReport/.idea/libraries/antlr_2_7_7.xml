@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/antlr-2.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/iText-2.1.7.js2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jasperreports-6.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jasperreports-javaflow-6.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jboss-logging-3.1.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jcommon-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jdom-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jfreechart-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Librerias/GestionEventosLib/jfreechart-1.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
